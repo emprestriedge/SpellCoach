@@ -1,6 +1,10 @@
 node_modules/
+build/
+dist/
+coverage/
 .netlify/
 .DS_Store
-.env
-.env.local
+*.log
 *.p8
+.env*
+!.env.example
